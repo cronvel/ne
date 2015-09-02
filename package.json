@@ -1,0 +1,33 @@
+{
+  "name": "ne",
+  "version": "0.0.0",
+  "description": "Ne ('Neon') is an embeddable text editor.",
+  "main": "lib/neon.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jshint": "^2.5.6",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/ne.git"
+  },
+  "keywords": [
+    "embeddable",
+    "text",
+    "editor"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/ne/issues"
+  }
+}
