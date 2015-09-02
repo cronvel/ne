@@ -1,13 +1,12 @@
 {
   "name": "ne",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ne ('Neon') is an embeddable text editor.",
   "main": "lib/neon.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "expect.js": "^0.3.1",
     "jshint": "^2.5.6",
