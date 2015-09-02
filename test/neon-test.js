@@ -28,7 +28,7 @@
 /* global describe, it, before, after */
 
 
-var neon = require( '../lib/neon.js' ) ;
+var ne = require( '../lib/ne.js' ) ;
 var expect = require( 'expect.js' ) ;
 
 

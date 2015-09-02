@@ -1,7 +1,7 @@
 {
   "name": "ne",
   "version": "0.0.2",
-  "description": "Ne ('Neon') is an embeddable text editor.",
+  "description": "Ne ('Neon') is a stand-alone AND embeddable text editor.",
   "main": "lib/ne.js",
   "directories": {
     "test": "test"
