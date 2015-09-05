@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "terminal-kit": "^0.15.0",
+    "terminal-kit": "^0.15.1",
     "tree-kit": "^0.5.5"
   },
   "devDependencies": {
