@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "terminal-kit": "^0.15.6",
+    "terminal-kit": "^0.15.7",
     "tree-kit": "^0.5.5"
   },
   "devDependencies": {
