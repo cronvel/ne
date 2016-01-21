@@ -1,10 +1,13 @@
 {
   "name": "ne",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "Ne ('Neon') is a stand-alone AND embeddable text editor.",
   "main": "lib/ne.js",
   "directories": {
     "test": "test"
+  },
+  "bin": {
+    "spellcast": "./bin/ne"
   },
   "dependencies": {
     "minimist": "^1.2.0",
@@ -17,7 +20,7 @@
     "mocha": "^2.2.4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R dot"
   },
   "repository": {
     "type": "git",
