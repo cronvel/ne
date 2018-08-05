@@ -14,16 +14,12 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "terminal-kit": "^1.0.0",
+    "terminal-kit": "^1.24.0",
     "tree-kit": "^0.5.5"
   },
-  "devDependencies": {
-    "expect.js": "^0.3.1",
-    "jshint": "^2.5.6",
-    "mocha": "^2.2.4"
-  },
+  "devDependencies": {},
   "scripts": {
-    "test": "mocha -R dot"
+    "test": "tea-time -R dot"
   },
   "repository": {
     "type": "git",
