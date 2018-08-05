@@ -24,12 +24,9 @@
 	SOFTWARE.
 */
 
-/* jshint unused:false */
-/* global describe, it, before, after */
 
 
 var ne = require( '../lib/ne.js' ) ;
-var expect = require( 'expect.js' ) ;
 
 
 
