@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.6",
+    "string-kit": "^0.17.3",
     "terminal-kit": "^2.6.0",
     "text-machine": "^0.3.0",
     "tree-kit": "^0.7.4"
