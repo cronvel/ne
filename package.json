@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.6",
-    "terminal-kit": "^2.5.1",
+    "terminal-kit": "^2.6.0",
     "text-machine": "^0.3.0",
     "tree-kit": "^0.7.4"
   },
