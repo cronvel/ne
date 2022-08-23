@@ -26,7 +26,7 @@
 
 
 
-var ne = require( '../lib/ne.js' ) ;
+var ne = require( '../lib/Neon.js' ) ;
 
 
 
