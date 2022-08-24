@@ -7,7 +7,6 @@ Essential features:
 * Go to line
 * Store multiple places in the text, and go to it
 * Search and replace with fixed string
-* Line/Column in status bar
 * Undo/redo
 
 
@@ -39,5 +38,12 @@ Would be great but not essential features:
 * Have core methods argument tips (but would require to guess the type of the variable)
 * Run third-party program/plugins like linters
 * Run commands, maybe using slash-shell
+
+
+
+### DONE:
+
+* Line/Column in status bar
+
 
 
