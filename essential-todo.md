@@ -3,8 +3,6 @@
 
 Essential features:
 
-* Auto-indent
-* Go to line
 * Store multiple places in the text, and go to it
 * Search and replace with fixed string
 
@@ -44,6 +42,8 @@ Would be great but not essential features:
 
 * Line/Column in status bar
 * Undo/redo
+* Auto-indent
+* Go to line
 
 
 
