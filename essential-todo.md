@@ -3,6 +3,7 @@
 
 Essential features:
 
+* Delete selection
 * Store multiple places in the text, and go to it
 * Search and replace with fixed string
 
@@ -43,6 +44,7 @@ Would be great but not essential features:
 * Show/Hide menu (Meta-M)
 * Line/Column in status bar
 * Undo/redo (Ctrl-Z/Alt-Z)
+* Delete line (Ctrl-Delete)
 * Auto-indent
 * Go to line (Meta-L)
 
