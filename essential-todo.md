@@ -40,10 +40,9 @@ Would be great but not essential features:
 
 ### DONE:
 
+* Show/Hide menu (Meta-M)
 * Line/Column in status bar
-* Undo/redo
+* Undo/redo (Ctrl-Z/Alt-Z)
 * Auto-indent
-* Go to line
-
-
+* Go to line (Meta-L)
 
