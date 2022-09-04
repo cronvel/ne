@@ -49,7 +49,7 @@ Technical:
 
 Bugs:
 
-* Selection should react to which part is edited (it should move along, reduce, or expand)
+* none
 
 
 
