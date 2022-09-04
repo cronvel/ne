@@ -3,7 +3,6 @@
 
 Essential features:
 
-* Delete selection
 * Store multiple places in the text, and go to it
 * Search and replace with fixed string
 
@@ -22,6 +21,9 @@ Less essentials features:
 
 Quality of Life features:
 
+* Ctrl-Up/Ctrl-Down moving indentation-wise: move to the next/previous closing indent-level, or the next/previous parent indent-level
+* Alt-Left/Alt-Right moving through camelCase uppercase?
+* Indent selection
 * Search and replace with JS regexp
 * Multiple screens, allowing moving part from one file to another
 * Auto-completion based on the TextMachine (could use a cursor boolean as 2nd argument of .pushEvent(), and use bufferBranches to get the names)
@@ -39,6 +41,19 @@ Would be great but not essential features:
 
 
 
+Technical:
+
+* Hilighter/TextMachine should support checkpoint for a better performance
+
+
+
+Bugs:
+
+* Selection is unhilighted (except filler) everytime text is inserted/deleted
+* Undo does not work well after paste
+
+
+
 ### DONE:
 
 * Show/Hide menu (Meta-M)
@@ -47,4 +62,6 @@ Would be great but not essential features:
 * Delete line (Ctrl-Delete)
 * Auto-indent
 * Go to line (Meta-L)
+* Delete selection (Ctrl-X)
+* Extend selection (Shift-Arrows)
 
