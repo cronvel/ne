@@ -49,8 +49,7 @@ Technical:
 
 Bugs:
 
-* Selection is unhilighted (except filler) everytime text is inserted/deleted
-* Undo does not work well after paste
+* Selection should react to which part is edited (it should move along, reduce, or expand)
 
 
 
