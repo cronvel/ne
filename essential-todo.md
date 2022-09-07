@@ -9,7 +9,6 @@ Essential features:
 
 Less essentials features:
 
-* Line of context (scroll up/down few more lines, so that the cursor is not at the top or bottom)
 * Indent selection
 * Purify indentation (re-indent the whole file)
 * In-app settings (like auto-indent char and step)
@@ -17,7 +16,6 @@ Less essentials features:
 * Highlighter/TextMachine sub-program (run concurrently the host language and the child, while delegating to the child
   if the host grammar allow it - useful for highlighting Vue.js template)
 * File watcher, detecting if another app has changed the file, ask for reload or warn before saving
-* “smart-home”: HOME move to the begining of the line, if pressed again it move AFTER indentation
 
 
 
@@ -70,4 +68,6 @@ Bugs:
 * Extend selection (Shift-Arrows)
 * Search and replace with fixed string
 * Store multiple cursors in the text, and go to it
+* Line of context (scroll up/down few more lines, so that the cursor is not at the top or bottom)
+* “smart-home”: HOME move to the begining of the line, if pressed again it move AFTER indentation
 
