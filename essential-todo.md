@@ -46,14 +46,15 @@ Technical:
 
 * New Terminal-Kit 'text' event: debounce 'key' and send a bunch of character all at once:
   avoid triggering the hilighter and redraw too much time
+* Debounce .runStateMachine()
 * Hilighter/TextMachine should support checkpoint for a better performance
 
 
 
 Bugs:
 
-* Replace after indentation seems to remove filler chars
 * Auto-indent behvior when placed before remaining indentation
+* InlineFileInput completion and hint have bugs when there is a base directory
 
 
 
@@ -65,7 +66,7 @@ Bugs:
 * Delete line (Ctrl-Delete)
 * Auto-indent
 * Go to line (Meta-L)
-* Delete selection (Ctrl-X)
+* Delete selection (Ctrl-D)
 * Extend selection (Shift-Arrows)
 * Search and replace with fixed string
 * Store multiple cursors in the text, and go to it
