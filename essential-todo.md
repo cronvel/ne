@@ -3,7 +3,7 @@
 
 Essential features:
 
-* Store multiple places in the text, and go to it
+* done?
 
 
 
@@ -17,6 +17,7 @@ Less essentials features:
 * Highlighter/TextMachine sub-program (run concurrently the host language and the child, while delegating to the child
   if the host grammar allow it - useful for highlighting Vue.js template)
 * File watcher, detecting if another app has changed the file, ask for reload or warn before saving
+* “smart-home”: HOME move to the begining of the line, if pressed again it move AFTER indentation
 
 
 
@@ -43,6 +44,8 @@ Would be great but not essential features:
 
 Technical:
 
+* New Terminal-Kit 'text' event: debounce 'key' and send a bunch of character all at once:
+  avoid triggering the hilighter and redraw too much time
 * Hilighter/TextMachine should support checkpoint for a better performance
 
 
@@ -50,6 +53,7 @@ Technical:
 Bugs:
 
 * Replace after indentation seems to remove filler chars
+* Auto-indent behvior when placed before remaining indentation
 
 
 
@@ -64,4 +68,5 @@ Bugs:
 * Delete selection (Ctrl-X)
 * Extend selection (Shift-Arrows)
 * Search and replace with fixed string
+* Store multiple cursors in the text, and go to it
 
