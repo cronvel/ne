@@ -23,7 +23,6 @@ Quality of Life features:
 
 * Ctrl-Up/Ctrl-Down moving indentation-wise: move to the next/previous closing indent-level, or the next/previous parent indent-level
 * Alt-Left/Alt-Right moving through camelCase uppercase?
-* Search and replace with JS regexp
 * Multiple screens, allowing moving part from one file to another
 * Auto-completion based on the TextMachine (could use a cursor boolean as 2nd argument of .pushEvent(), and use bufferBranches to get the names)
 * Auto-completion based on current content
@@ -66,8 +65,9 @@ Bugs:
 * Go to line (Meta-L)
 * Delete selection (Ctrl-D)
 * Extend selection (Shift-Arrows)
-* Search and replace with fixed string
+* Search and replace with fixed string (Ctrl-F/Alt-F)
 * Store multiple cursors in the text, and go to it
 * Line of context (scroll up/down few more lines, so that the cursor is not at the top or bottom)
 * “smart-home”: HOME move to the begining of the line, if pressed again it move AFTER indentation
+* Search and replace with JS regexp (Ctrl-G/Alt-G)
 
