@@ -70,4 +70,5 @@ Bugs:
 * Line of context (scroll up/down few more lines, so that the cursor is not at the top or bottom)
 * “smart-home”: HOME move to the begining of the line, if pressed again it move AFTER indentation
 * Search and replace with JS regexp (Ctrl-G/Alt-G)
-
+* Auto-completion in find/replace input (based on TextMachine found identifier)
+* Undo/redo smart grouping
