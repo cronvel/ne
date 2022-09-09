@@ -1,0 +1,9 @@
+
+javascript:
+	extensions: [ "js" ]
+	syntax: javascript
+
+xml:
+	extensions: [ "xml" , "html" ]
+	syntax: xml
+

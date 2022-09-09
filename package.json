@@ -13,10 +13,12 @@
     "ne": "./bin/ne"
   },
   "dependencies": {
+    "fs-kit": "^0.6.4",
+    "kung-fig": "^0.63.0",
     "minimist": "^1.2.6",
     "seventh": "^0.8.0",
     "string-kit": "^0.17.5",
-    "terminal-kit": "^2.11.2",
+    "terminal-kit": "^2.11.3",
     "text-machine": "^0.3.2",
     "tree-kit": "^0.7.4"
   },
