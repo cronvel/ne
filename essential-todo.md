@@ -71,3 +71,4 @@ Bugs:
 * Search and replace with JS regexp (Ctrl-G/Alt-G)
 * Auto-completion in find/replace input (based on TextMachine found identifier)
 * Undo/redo smart grouping
+
