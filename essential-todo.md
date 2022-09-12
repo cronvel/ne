@@ -51,7 +51,6 @@ Technical:
 Bugs:
 
 * Auto-indent behvior when placed before remaining indentation
-* InlineFileInput completion and hint have bugs when there is a base directory
 
 
 
