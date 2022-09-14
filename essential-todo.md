@@ -70,6 +70,7 @@ Bugs:
 * Search and replace with JS regexp (Ctrl-G/Alt-G)
 * Auto-completion in find/replace input (based on TextMachine found identifier)
 * Undo/redo smart grouping
-* Save cursors position at next startup
+* Save cursors position and restore at the next startup (per file)
+* Save search/replace and eval history and restore at the next startup (per file)
 * Math/Javascript inline interpreter
 
