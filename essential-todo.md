@@ -10,11 +10,11 @@ Essential features:
 Less essentials features:
 
 * Indent selection
-* Purify indentation (re-indent the whole file)
-* In-app settings (like auto-indent char and step)
-* Load config at the start of the program (key bindings, etc...)
 * Highlighter/TextMachine sub-program (run concurrently the host language and the child, while delegating to the child
   if the host grammar allow it - useful for highlighting Vue.js template)
+* In-app settings (like auto-indent char and step)
+* Purify indentation (re-indent the whole file)
+* Load config at the start of the program (key bindings, etc...)
 * File watcher, detecting if another app has changed the file, ask for reload or warn before saving
 
 
