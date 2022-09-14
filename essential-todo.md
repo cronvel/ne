@@ -32,7 +32,6 @@ Quality of Life features:
 
 Would be great but not essential features:
 
-* Math REPL
 * Have core methods argument tips (but would require to guess the type of the variable)
 * Run third-party program/plugins like linters
 * Run commands, maybe using slash-shell
@@ -72,4 +71,5 @@ Bugs:
 * Auto-completion in find/replace input (based on TextMachine found identifier)
 * Undo/redo smart grouping
 * Save cursors position at next startup
+* Math/Javascript inline interpreter
 
