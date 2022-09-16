@@ -9,7 +9,6 @@ Essential features:
 
 Less essentials features:
 
-* Indent selection
 * Highlighter/TextMachine sub-program (run concurrently the host language and the child, while delegating to the child
   if the host grammar allow it - useful for highlighting Vue.js template)
 * In-app settings (like auto-indent char and step)
@@ -73,4 +72,5 @@ Bugs:
 * Save cursors position and restore at the next startup (per file)
 * Save search/replace and eval history and restore at the next startup (per file)
 * Math/Javascript inline interpreter
+* Indent/Unindent the selection when the cursor is inside the selection (tab/shift-tab)
 
