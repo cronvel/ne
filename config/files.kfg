@@ -7,3 +7,7 @@ xml:
 	extensions: [ "xml" , "html" ]
 	syntax: xml
 
+vue:
+	extensions: [ "vue" ]
+	syntax: vue
+
