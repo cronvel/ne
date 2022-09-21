@@ -1,6 +1,6 @@
 {
   "name": "ne",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Ne ('Neon') is a stand-alone AND embeddable text editor.",
   "main": "lib/Neon.js",
   "directories": {
@@ -19,7 +19,7 @@
     "seventh": "^0.8.0",
     "string-kit": "^0.17.5",
     "terminal-kit": "^2.11.6",
-    "text-machine": "^0.3.3",
+    "text-machine": "^0.4.0",
     "tree-kit": "^0.7.4"
   },
   "scripts": {
