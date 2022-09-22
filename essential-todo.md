@@ -39,7 +39,7 @@ Would be great but not essential features:
 
 Technical:
 
-* New Terminal-Kit 'text' event: debounce 'key' and send a bunch of character all at once:
+* New Terminal-Kit 'text' event: debounce 'key' and send a bunch of characters all at once:
   avoid triggering the hilighter and redraw too much time
 * Debounce .runStateMachine()
 * Hilighter/TextMachine should support checkpoint for a better performance
@@ -48,7 +48,7 @@ Technical:
 
 Bugs:
 
-* none
+* Can't open a new file anymore from the command line
 
 
 

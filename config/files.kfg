@@ -7,6 +7,10 @@ xml:
 	extensions: [ "xml" , "html" ]
 	syntax: xml
 
+css:
+	extensions: [ "css" ]
+	syntax: css
+
 vue:
 	extensions: [ "vue" ]
 	syntax: vue
