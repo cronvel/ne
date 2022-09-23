@@ -3,7 +3,8 @@
 
 Essential features:
 
-* done?
+* Ctrl-C should ask confirmation if the file is not saved
+* Should intercept exception bubbling up to the process object and save a file in the home config (avoid losing work due to bugs)
 
 
 
@@ -48,7 +49,8 @@ Technical:
 
 Bugs:
 
-* Can't open a new file anymore from the command line
+* Input (askInline*) should lock the EditorTextBox, it is possible during a 'findNext' action to press 'y' and it will add some 'y' all over the place
+* Should survive bad state-machine
 
 
 
