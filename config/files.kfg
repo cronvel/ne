@@ -1,6 +1,6 @@
 
 javascript:
-	extensions: [ "js" ]
+	extensions: [ "js" , "json" ]
 	syntax: javascript
 
 xml:
@@ -14,4 +14,8 @@ css:
 vue:
 	extensions: [ "vue" ]
 	syntax: vue
+
+kfg:
+	extensions: [ "kfg" ]
+	syntax: kfg
 
