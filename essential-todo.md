@@ -3,8 +3,7 @@
 
 Essential features:
 
-* Ctrl-C should ask confirmation if the file is not saved
-* Should intercept exception bubbling up to the process object and save a file in the home config (avoid losing work due to bugs)
+* Should support terminal resizing
 
 
 
